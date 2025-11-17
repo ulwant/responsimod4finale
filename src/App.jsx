@@ -52,7 +52,7 @@ function App() {
 
         {/* Author / Group credit on Home page */}
         <div className="text-center text-sm text-white/70 mt-4">
-          Ulwan Terry A — kelompok 11
+          Ulwan Terry A — 21120120170001 — kelompok 11
         </div>
       </motion.div>
     );
